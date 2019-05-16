@@ -1,3 +1,1 @@
 FROM couchbase
-
-USER root
